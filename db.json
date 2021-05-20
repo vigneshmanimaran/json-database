@@ -7,7 +7,7 @@
             "priceAfterDiscount": "₹25",
             "imageName": "cat1",
             "isNew": "TRUE",
-            "ratings": "3"
+            "ratings": "3.2"
         },
         {
             "id": "2",
@@ -16,7 +16,7 @@
             "priceAfterDiscount": "₹40",
             "imageName": "cat2",
             "isNew": "FALSE",
-            "ratings": "4"
+            "ratings": "4.2"
         },
         {
             "id": "3",
@@ -25,7 +25,7 @@
             "priceAfterDiscount": "₹19",
             "imageName": "cat3",
             "isNew": "FALSE",
-            "ratings": "2"
+            "ratings": "2.7"
         },
         {
             "id": "4",
@@ -34,7 +34,7 @@
             "priceAfterDiscount": "₹50",
             "imageName": "cat4",
             "isNew": "TRUE",
-            "ratings": "4"
+            "ratings": "4.8"
         },
         {
             "id": "5",
@@ -43,7 +43,7 @@
             "priceAfterDiscount": "₹48",
             "imageName": "cat5",
             "isNew": "FALSE",
-            "ratings": "5"
+            "ratings": "4.5"
         },
         {
             "id": "6",
