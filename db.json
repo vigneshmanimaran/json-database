@@ -2,8 +2,8 @@
     "Products": [
         {
             "id":"1",
-            "data-name":"Awesome_Product",
-            "data-price":"₹699",
+            "name":"Awesome_Product",
+            "price":"₹699",
             "priceAfterDiscount":"₹419.4",
             "imageName":"cat1",
             "isNew":"TRUE",
@@ -11,8 +11,8 @@
         },
         {
             "id":"2",
-            "data-name":"Cool_Product",
-            "data-price":"₹599",
+            "name":"Cool_Product",
+            "price":"₹599",
             "priceAfterDiscount":"₹359.4",
             "imageName":"cat2",
             "isNew":"FALSE",
@@ -20,8 +20,8 @@
         },
         {
             "id":"3",
-            "data-name":"Hot_Product",
-            "data-price":"₹799",
+            "name":"Hot_Product",
+            "price":"₹799",
             "priceAfterDiscount":"₹479.4",
             "imageName":"cat3",
             "isNew":"FALSE",
@@ -29,8 +29,8 @@
         },
         {
             "id":"4",
-            "data-name":"Huge_Product",
-            "data-price":"₹499",
+            "name":"Huge_Product",
+            "price":"₹499",
             "priceAfterDiscount":"₹299.4",
             "imageName":"cat4",
             "isNew":"TRUE",
@@ -38,8 +38,8 @@
         },
         {
             "id":"5",
-            "data-name":"Amazing_Product",
-            "data-price":"₹599",
+            "name":"Amazing_Product",
+            "price":"₹599",
             "priceAfterDiscount":"₹359.4",
             "imageName":"cat5",
             "isNew":"FALSE",
@@ -47,8 +47,8 @@
         },
         {
             "id":"6",
-            "data-name":"Big_Product",
-            "data-price":"₹699",
+            "name":"Big_Product",
+            "price":"₹699",
             "priceAfterDiscount":"₹419.4",
             "imageName":"cat6",
             "isNew":"TRUE",
