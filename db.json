@@ -1,7 +1,7 @@
 {
     "Products": [
         {
-            "id":"1",
+            "id":"0",
             "name":"Awesome_Product",
             "price":"₹699",
             "priceAfterDiscount":"₹419.4",
@@ -10,7 +10,7 @@
             "ratings": "3.2"
         },
         {
-            "id":"2",
+            "id":"1",
             "name":"Cool_Product",
             "price":"₹599",
             "priceAfterDiscount":"₹359.4",
@@ -19,7 +19,7 @@
             "ratings":"4.2"
         },
         {
-            "id":"3",
+            "id":"2",
             "name":"Hot_Product",
             "price":"₹799",
             "priceAfterDiscount":"₹479.4",
@@ -28,7 +28,7 @@
             "ratings":"2.7"
         },
         {
-            "id":"4",
+            "id":"3",
             "name":"Huge_Product",
             "price":"₹499",
             "priceAfterDiscount":"₹299.4",
@@ -37,7 +37,7 @@
             "ratings":"4.8"
         },
         {
-            "id":"5",
+            "id":"4",
             "name":"Amazing_Product",
             "price":"₹599",
             "priceAfterDiscount":"₹359.4",
@@ -46,7 +46,7 @@
             "ratings":"4.5"
         },
         {
-            "id":"6",
+            "id":"5",
             "name":"Big_Product",
             "price":"₹699",
             "priceAfterDiscount":"₹419.4",
